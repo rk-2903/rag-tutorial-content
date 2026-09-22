@@ -4,3 +4,8 @@ langchain-community
 langchain-text-splitters
 pypdf
 pymupdf
+#For embeddings
+sentence-transformers
+#For vector database
+faiss-cpu
+chromadb
