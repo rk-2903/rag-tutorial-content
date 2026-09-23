@@ -9,3 +9,5 @@ sentence-transformers
 #For vector database
 faiss-cpu
 chromadb
+langchain-groq
+python-dotenv
